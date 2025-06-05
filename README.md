@@ -1,4 +1,3 @@
-# Finance_Tracker
+# Stock_Market_Tracker
 
-This project is a finance tracker to keep track of expenses and savings.
-The idea is to keep updating it into a full-stack app, starting simple...
+This project is a follow-up of an app built on youtube which checks the stock market.
